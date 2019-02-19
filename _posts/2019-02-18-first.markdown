@@ -6,6 +6,8 @@ categories: x
 
 First blog
 
+
+
 for code snippets:
 
 {% highlight ruby %}
