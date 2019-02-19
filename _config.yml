@@ -17,16 +17,25 @@ title: Cruks
 email: anananlyjlyj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog @anananlyjlyj
-baseurl: "blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anananlyjlyj
 github_username:  anananlyjlyj
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: krad
 plugins:
   - jekyll-feed
+  
+defaults:
+  -
+    scope:
+      path:
+      type: "posts"
+    values:
+        layout: "post"
+        title: "new post"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
