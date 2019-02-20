@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+excerpt: "small but bright"
+header:
+  overlay_image: /assets/img/bg.jpg
+  caption: "Photo by me"
+  actions:
+    - label: "⭐"
+      url: "https://freestarcharts.com/crux"
 ---
+
