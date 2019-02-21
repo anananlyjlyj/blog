@@ -11,9 +11,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-  
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "neon" #"default" "air", "aqua", "contrast", "dark", "dirt", "mint", "plum", "sunrise"
+
+remote_theme: mmistakes/minimal-mistakes
+# theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "neon" #"default" "air", "aqua", "contrast", "dark", "dirt", "mint", "plum", "sunrise"
+
 
 title: Cruks
 email: anananlyjlyj@gmail.com
@@ -50,6 +52,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
