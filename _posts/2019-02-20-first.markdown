@@ -1,11 +1,13 @@
 ---
 title:  "first"
-date:   2019-02-18 22:12:38 +0100
-categories: x
+date:   2019-02-21 19:00:00 +0100
+categories: physics
 toc: true
 toc_label: "Contents"
 toc_icon: "cog"
 ---
 
-First blog
+# NMR: nuclear magnetic resonance
+
+NMR signal measures the magnetization of protons because of spin.
 

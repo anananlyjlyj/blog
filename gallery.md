@@ -15,10 +15,6 @@ gallery:
     image_path: /assets/img/3.jpg
     alt: "Liaoning"
     title: "Liaoning"
-  - url: /assets/img/4.jpg
-    image_path: /assets/img/4.jpg
-    alt: "Lake"
-    title: "Lake"
 ---
 
 
