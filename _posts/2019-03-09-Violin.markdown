@@ -1,0 +1,30 @@
+---
+title:  "Violin"
+date:   2019-03-09 12:12:38 +0100
+categories: violin_class
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
+---
+
+# 练习
+
+* 泛音：类比钢琴，一琴键音 = 基音 + 多泛音
+  * 自然泛音：基音即GDAE。找1\2处，1\3处（对称）指尖轻压（压头发丝感）产生，来回滑动听音。在-1\3处大拇指自然滑动到琴板下。
+  * 人工泛音：手指按压产生基音。
+
+  [Wiki](https://en.wikipedia.org/wiki/Harmonic_series_(music))
+* 拨弦练习
+
+  * 三指四指拨弦，几根弦都要音量合适
+* 节奏练习
+  * 节拍器约75bpm，跺脚
+  * 一节一跺脚\四节一跺脚\一拍一跺脚
+* 任意选陌生小节练习
+* 调整肩垫
+
+放松是个一直要学习的过程。人生也是呢。
+
+
+
+Recommend YouTube Channel: [NiceChord](https://www.youtube.com/channel/UCVXstWyJeO6No3jYELxYrjg/videos) 

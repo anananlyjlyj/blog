@@ -1,13 +1,15 @@
 ---
 title:  "first"
 date:   2019-02-21 19:00:00 +0100
-categories: physics
+categories: unknown
 toc: true
 toc_label: "Contents"
 toc_icon: "cog"
 ---
 
-# NMR: nuclear magnetic resonance
+# Ref
 
-NMR signal measures the magnetization of protons because of spin.
+[minimistakes helper](https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
+
+[Jekyll help](https://jekyllrb.com/docs/includes/)
 
