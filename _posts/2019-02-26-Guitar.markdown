@@ -11,15 +11,20 @@ toc_icon: "cog"
 
 Left hand:
 
-* E major
-* A major
-* D major
-* A minor: E major but move down a string
-* E minor
-* G major
+[![Image result for guitar chords](https://www.libertyparkmusic.com/wp-content/uploads/Chord-diagram-7.jpg)](https://www.google.de/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiw8PW9oIHhAhXPGuwKHeITAOQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.libertyparkmusic.com%2Fread-guitar-chord-diagrams%2F&psig=AOvVaw12LXQHXqQglNSlf-i4s4td&ust=1552639886721055)
 
 
 
 Right hand:
 
 * pluck
+
+
+
+How to pretend you know pop-music:
+
+C chord: C G Am Em F C F G
+
+G chord: G D Em Bm C G C D
+
+A chord: A E Fm Cm D A D E
