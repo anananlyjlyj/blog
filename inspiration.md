@@ -24,7 +24,8 @@ permalink: /inspiration/
 ------
 
 - Jorge Luis Borges
-- 
+- Best short Sci-Fi: The Story of Your Life by Ted Chiang
+- Recent reading: The Swarm
 
 
 
@@ -72,5 +73,7 @@ permalink: /inspiration/
 * Does death define us?
 
   [What Remains of Edith Finch](http://edithfinch.com/)
+
+* This War of Mine
 
 * 

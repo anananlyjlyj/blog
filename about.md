@@ -30,3 +30,14 @@ author_profile: true
 >
 > Let it be
 
+
+
+> 生命蜷缩着到来 蜷缩着离开
+>
+> 但舒展才是你的模样
+
+
+
+> ~~No one in the world likes you.~~
+>
+> There’s no one in the world like you.
