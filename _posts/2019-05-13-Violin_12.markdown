@@ -1,0 +1,15 @@
+---
+title:  "Violin_12"
+date:   2019-05-13 12:12:38 +0100
+categories: violin_class
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
+---
+
+# 练习
+
+代课老师带了Marsch，好听
+
+还有仿照洛巴克时期的
+

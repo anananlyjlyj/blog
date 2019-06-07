@@ -1,0 +1,16 @@
+---
+title:  "Violin_15"
+date:   2019-05-27 12:12:38 +0100
+categories: violin_class
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
+---
+
+# 练习
+
+代课老师帮我问到了一个Kammerorchestra！
+
+周二打了电话
+
+先去听他们的音乐会跟指挥碰个面！
