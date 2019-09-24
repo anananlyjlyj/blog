@@ -1,0 +1,16 @@
+---
+title:  "Violin_19"
+date:   2019-06-15 12:12:38 +0100
+categories: violin_class
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
+---
+
+# 练习
+
+* 右手運弓練習：只用大拇指和中指用重量牽引弓運行
+* 右手持弓：食指鈎住弓子，大拇指觸弓部分應該靠近指甲蓋
+* 判斷弓子角度：Frosch部位平行琴弦
+* 手腕：問香水和扶桌子直角
+* 在steg上練習！在steg上練習！在steg上練習！

@@ -1,0 +1,12 @@
+---
+title:  "Violin_28"
+date:   2019-07-22 12:12:38 +0100
+categories: violin_class
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
+---
+
+# 练习
+
+* 
