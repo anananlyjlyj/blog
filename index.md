@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/img/sciart.jpg
     alt: "sciart"
     title: "Sciart"
-    excerpt: "Neither eh nor con."
+    excerpt: "In beauty I believe."
     url: "/sciart/"
     btn_class: "btn--primary"
     btn_label: "Sciart"      

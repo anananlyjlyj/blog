@@ -14,7 +14,7 @@ permalink: /inspiration/
 
 ------
 
-- Richard Feynman
+- *Richard Feynman*
 - 
 
 
@@ -23,8 +23,8 @@ permalink: /inspiration/
 
 ------
 
-- Jorge Luis Borges
-- Best short Sci-Fi: The Story of Your Life by Ted Chiang
+- *Jorge Luis Borges*
+- Best short Sci-Fi: The Story of Your Life by *Ted Chiang*
 - Recent reading: The Swarm
 
 

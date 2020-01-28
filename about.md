@@ -1,9 +1,16 @@
 ---
-layout: archive
-title: Who, What, Why, How
+title: "Who, What, Why, How"
 permalink: /about/
 author_profile: true
+toc: true
+layouts_gallery:
+  - url: /assets/images/2.png
+    image_path: /assets/images/2.png
+    alt: "paris"
+last_modified_at: 2020-01-28
 ---
+
+{%include gallery id = "layouts_gallery", caption = "nice view"}
 
 
 
@@ -11,12 +18,6 @@ author_profile: true
 >
 > 地平线就下沉几分 / 世界就少几丝黑暗
 >
-
-
-
-> You never grew up.  
->
-> But you never stop growing.  
 
 
 

@@ -26,6 +26,14 @@ url: "https://anananlyjlyj.github.io/" # the base hostname & protocol for your s
 twitter_username: anananlyjlyj
 github_username:  anananlyjlyj
 
+search: true
+
+author:
+  name     : Yajie
+  avatar   : "/assets/img/bio-photo.jpg"
+  bio      : "I'm a pirate."
+  location : "Mars, Solar System" 
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -137,6 +145,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
       
 # HTML Compression
 # - http://jch.penibelst.de/

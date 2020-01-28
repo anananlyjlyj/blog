@@ -12,3 +12,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+#inspiration:
+#  - title: Books
+#    children:
+#      - title: "Fiction"
+#        url: /inspiration/fiction/
+#      - title: "History"
+#        url: /inspiration/history/

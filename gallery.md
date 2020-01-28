@@ -17,7 +17,7 @@ gallery:
     title: "Liaoning"
 ---
 
-
+{% include gallery id="gallery"}
 
 
 
