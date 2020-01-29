@@ -1,18 +1,10 @@
 ---
 title: "Who, What, Why, How"
 permalink: /about/
+layout: archive
 author_profile: true
 toc: true
-layouts_gallery:
-  - url: /assets/images/2.png
-    image_path: /assets/images/2.png
-    alt: "paris"
-last_modified_at: 2020-01-28
 ---
-
-{%include gallery id = "layouts_gallery", caption = "nice view"%}
-
-
 
 > 日未出时她努力跳起 / 重重的下落 
 >
