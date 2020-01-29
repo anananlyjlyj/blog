@@ -10,7 +10,7 @@ layouts_gallery:
 last_modified_at: 2020-01-28
 ---
 
-{%include gallery id = "layouts_gallery", caption = "nice view"}
+{%include gallery id = "layouts_gallery", caption = "nice view"%}
 
 
 
