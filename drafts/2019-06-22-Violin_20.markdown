@@ -1,0 +1,13 @@
+---
+title:  "Violin_20"
+date:   2019-06-22 12:12:38 +0100
+categories: violin_class
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
+---
+
+# 练习
+
+* 乐理：五度
+* 平衡放松，换弦练习

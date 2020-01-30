@@ -1,0 +1,15 @@
+---
+title:  "Violin_7"
+date:   2019-04-21 12:12:38 +0100
+categories: violin_class
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
+---
+
+# 练习
+
+* 节奏、呼吸练习：1234 4吸气，1呼气
+
+* 左手小拇指勾弦：预备练习
+
