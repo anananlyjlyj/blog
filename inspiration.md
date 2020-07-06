@@ -33,9 +33,8 @@ permalink: /inspiration/
 
 ------
 
-- Max Richter
-- Ludovico Einaudi
-- Vitamin String Quartet
+- Classical 
+- Movie sound track
 - 
 
 
